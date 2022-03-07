@@ -32,20 +32,16 @@
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/yoon4.ovpn"
 
-      },
+      }
       
-      {
-               "name": "VIP-MECTEL-BILL-ZERO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/viper.ovpn"
-         }
 
    ],
 
-"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n-Mec Nopro\n\nUpdate: 02/3/2022 \nConfig version: 15.0",
+"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n-Mec Nopro\n\nUpdate: 7/3/2022 \nConfig version: 16.0",
 
    "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-   "version": 20
+   "version": 21
 
 }
