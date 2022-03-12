@@ -20,7 +20,7 @@
 
 {
 
-         "name": "VIP-TRUE-DTAC-NOPRO-03",
+         "name": "VIP-TRUE-DTAC-NOPRO_03",
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/yoon3.ovpn"
 
@@ -38,10 +38,10 @@
 
    ],
 
-"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n-Mec Nopro\n\nUpdate: 10/3/2022 \nConfig version: 20.0",
+"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n-Mec Nopro\n\nUpdate: 10/3/2022 \nConfig version: 21.0",
 
    "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-   "version": 25
+   "version": 26
 
 }
