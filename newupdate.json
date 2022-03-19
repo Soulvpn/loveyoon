@@ -4,7 +4,7 @@
 
 {
 
-"name": "VIP-TRUE-DTAC-NOPRO_01",
+"name": "VIP-TRUE-DTAC-NOPRO-01",
 
 "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/fuck.ovpn"
 
@@ -12,7 +12,7 @@
 
 {
 
-         "name": "VIP-TRUE-DTAC-NOPRO_02",
+         "name": "VIP-TRUE-DTAC-NOPRO-02",
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/yoon2.ovpn"
 
@@ -20,7 +20,7 @@
 
 {
 
-         "name": "VIP-TRUE-DTAC-NOPRO_03",
+         "name": "VIP-TRUE-DTAC-NOPRO-03",
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/yoon3.ovpn"
 
@@ -28,7 +28,7 @@
 
 {
 
-         "name": "VIP-TRUE-DTAC-NOPRO_04",
+         "name": "VIP-TRUE-DTAC-NOPRO-04",
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/yoon4.ovpn"
 
@@ -42,6 +42,6 @@
 
    "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-   "version": 30
+   "version": 31
 
 }
