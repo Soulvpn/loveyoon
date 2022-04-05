@@ -28,7 +28,7 @@
 
 {
 
-         "name": "DtacLazada_FREE",
+         "name": "Dtac90Days_FREE",
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vip2.ovpn"
 
@@ -36,7 +36,7 @@
 
 {
 
-         "name": "DtacLazada_VIP1",
+         "name": "Dtac90Days_VIP1",
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip2.ovpn"
 
@@ -44,7 +44,7 @@
 
 {
 
-         "name": "DtacLazada_VIP2",
+         "name": "Dtac90Days_VIP2",
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip2.ovpn"
 
@@ -104,6 +104,6 @@
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 37
+"version": 38
 
 }
