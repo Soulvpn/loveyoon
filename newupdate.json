@@ -4,15 +4,31 @@
 
 {
 
-"name": "FREE-TRUE-DTAC-NOPRO-01",
+         "name": "DtacNoPro_FREE",
 
-"url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vip1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vip1.ovpn"
 
-},
+      },
 
 {
 
-         "name": "FREE-TRUE-DTAC-NOPRO-02",
+         "name": "DtacNoPro_VIP1",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip.ovpn"
+
+      },
+
+{
+
+         "name": "DtacNoPro_VIP2",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip.ovpn"
+
+      },
+
+{
+
+         "name": "DtacLazada_FREE",
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vip2.ovpn"
 
@@ -20,45 +36,74 @@
 
 {
 
-         "name": "VIP-TRUE-DTAC-NOPRO-01",
+         "name": "DtacLazada_VIP1",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip.ovpn"
-
-      },
-
-{
-
-         "name": "VIP-TRUE-DTAC-NOPRO-02",
-
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip.ovpn"
-
-      },
-      
-      {
-
-         "name": "VIP-TRUE-DTAC-NOPRO-03",
-
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip2.ovpn"
 
       },
 
 {
 
-         "name": "FREE-TRUE-DTAC-NOPRO-03",
+         "name": "DtacLazada_VIP2",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip2.ovpn"
+
+      },
+
+{
+
+         "name": "DtacLINE_FREE",
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vip3.ovpn"
 
-      }
-      
+      },
 
+{
+
+         "name": "DtacLINE_VIP1",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip4.ovpn"
+
+      },
+
+{
+
+         "name": "DtacLINE_VIP2",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip4.ovpn"
+
+      },
+
+     {
+
+         "name": "TrueNoPro_FREE",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vip4.ovpn"
+
+      },
+
+      {
+
+         "name": "TrueNoPro_VIP1",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip3.ovpn"
+
+      },
+
+{
+
+         "name": "TrueNoPro_VIP2",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip3.ovpn"
+
+      }
 
    ],
 
-"message":"SERVER LIST...\n-Free HongKong Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 04/4/2022 \nConfig version: 2.0",
+"message":"SERVER LIST...\n-Free HongKong Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 05/4/2022 \nConfig version: 3.0",
 
-   "title":"NEW CONFIG UPDATE AVAILABLE" ,
+"title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-   "version": 36
-   
+"version": 37
 
 }
