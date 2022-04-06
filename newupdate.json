@@ -6,7 +6,7 @@
 
          "name": "DtacNoPro_FREE",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vip1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/anopro.ovpn"
 
       },
 
@@ -30,7 +30,7 @@
 
          "name": "Dtac90Days_FREE",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vip2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/azada.ovpn"
 
       },
 
@@ -54,7 +54,7 @@
 
          "name": "DtacLINE_FREE",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vip3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/aline.ovpn"
 
       },
 
@@ -78,7 +78,7 @@
 
          "name": "TrueNoPro_FREE",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vip4.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/atrue.ovpn"
 
       },
 
@@ -100,10 +100,10 @@
 
    ],
 
-"message":"SERVER LIST...\n-Free HongKong Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 06/4/2022 \nConfig version: 4.0",
+"message":"SERVER LIST...\n-Free Singapore Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 06/4/2022 \nConfig version: 5.0",
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 39
+"version": 40
 
 }
