@@ -4,17 +4,17 @@
 
 {
 
-         "name": "DtacNoPro_FREE",
+         "name": "SG-DTAC-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/anopro.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg-dtac.ovpn"
 
       },
 
 {
 
-         "name": "DtacNoPro_VIP1",
+         "name": "SG-TRUE-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vvip.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg-true.ovpn"
 
       },
 
@@ -104,6 +104,6 @@
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 43
+"version": 44
 
 }
