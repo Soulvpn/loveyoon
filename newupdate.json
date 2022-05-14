@@ -1,0 +1,62 @@
+{
+
+   "files": [ 
+
+{
+
+         "name": "SG-TRUE-NOPRO-01",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg1.ovpn"
+
+      },
+
+{
+
+         "name": "SG-TRUE-NOPRO-02",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg2.ovpn"
+
+      },
+
+{
+
+         "name": "SG-TRUE-NOPRO-03",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg3.ovpn"
+
+      },
+
+{
+
+         "name": "SG-DTAC-NOPRO-01",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd1.ovpn"
+
+      },
+
+{
+
+         "name": "SG-DTAC-NOPRO-02",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd2.ovpn"
+
+      },
+
+{
+
+         "name": "SG-DTAC-NOPRO-03",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd3.ovpn"
+
+      }
+
+   ],
+
+"message":"SERVER LIST...\n-Free Singapore Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 06/4/2022 \nConfig version: 5.0",
+
+"title":"NEW CONFIG UPDATE AVAILABLE" ,
+
+"version": 45
+
+}
+
