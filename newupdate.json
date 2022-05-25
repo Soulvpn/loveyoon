@@ -6,7 +6,7 @@
 
          "name": "SG-TRUE-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/true1.ovpn"
 
       },
 
@@ -14,7 +14,7 @@
 
          "name": "SG-TRUE-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/true2.ovpn"
 
       },
 
@@ -22,7 +22,7 @@
 
          "name": "SG-TRUE-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/true3.ovpn"
 
       },
 
@@ -30,7 +30,7 @@
 
          "name": "SG-DTAC-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/dtac1.ovpn"
 
       },
 
@@ -38,7 +38,7 @@
 
          "name": "SG-DTAC-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/dtac2.ovpn"
 
       },
 
@@ -46,7 +46,7 @@
 
          "name": "SG-DTAC-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/dtac3.ovpn"
 
       }
 
@@ -56,7 +56,7 @@
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 47
+"version": 48
 
 }
 
