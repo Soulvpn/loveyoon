@@ -48,15 +48,80 @@
 
          "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/dtac3.ovpn"
 
+      },
+      
+      {
+
+         "name": "VIP-TRUE-NOPRO-01",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/viptrue1.ovpn"
+
+      },
+
+{
+
+         "name": "VIP-TRUE-NOPRO-02",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/viptrue2.ovpn"
+
+      },
+
+{
+
+         "name": "VIP-TRUE-NOPRO-03",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/viptrue3.ovpn"
+
+      },
+
+{
+
+         "name": "VIP-DTAC-NOPRO-01",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vipdtac1.ovpn"
+
+      },
+
+{
+
+         "name": "VIP-DTAC-NOPRO-02",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vipdtac2.ovpn"
+
+      },
+
+{
+
+         "name": "VIP-DTAC-NOPRO_03",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vipdtac3.ovpn"
+
+      },
+
+{
+
+         "name": "TH-DTAC-NOPRO-01",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/THdtac.ovpn"
+
+      },
+
+{
+
+         "name": "TH-TRUE-NOPRO_01",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/THtrue.ovpn"
+
       }
 
    ],
 
-"message":"SERVER LIST...\n-Free Singapore Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 3/6/2022 \nConfig version: 7.0",
+"message":"SERVER LIST...\n-Free Singapore Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 5/6/2022 \nConfig version: 8.0",
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 51
+"version": 52
+   
 
 }
 
