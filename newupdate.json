@@ -100,17 +100,49 @@
 
 {
 
-         "name": "TH-DTAC-NOPRO-01",
+         "name": "TH-GAME1-TRUE-NOPRO",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/THdtac.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gametrue1.ovpn"
 
       },
 
 {
 
-         "name": "TH-TRUE-NOPRO_01",
+         "name": "TH-GAME2-TRUE-NOPRO",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/THtrue.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gametrue2.ovpn"
+
+      },
+
+{
+
+         "name": "TH-GAME3-TRUE-NOPRO",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gametrue3.ovpn"
+
+      },
+
+{
+
+         "name": "TH-GAME1-DTAC-NOPRO",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gamedtac1.ovpn"
+
+      },
+
+{
+
+         "name": "TH-GAME2-DTAC-NOPRO",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gamedtac2.ovpn"
+
+      },
+
+{
+
+         "name": "TH-GAME3-DTAC-NOPRO",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gamedtac3.ovpn"
 
       }
 
