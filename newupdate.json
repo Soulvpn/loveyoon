@@ -148,49 +148,49 @@
       
       {
 
-         "name": "A-SG-TRUE-NOPRO-01",
+         "name": "TH-TRUE-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/hk1.ovpn"
-
-      },
-
-{
-
-         "name": "A-SG-TRUE-NOPRO-02",
-
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/hk2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue1.ovpn"
 
       },
 
 {
 
-         "name": "A-SG-TRUE-NOPRO-03",
+         "name": "TH-TRUE-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/hk3.ovpn"
-
-      },
-
-{
-
-         "name": "A-SG-DTAC-NOPRO-01",
-
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/hkd1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue2.ovpn"
 
       },
 
 {
 
-         "name": "A-SG-DTAC-NOPRO-02",
+         "name": "TH-TRUE-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/hkd2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue3.ovpn"
 
       },
 
 {
 
-         "name": "A-SG-DTAC-NOPRO-03",
+         "name": "TH-DTAC-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/hkd3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac1.ovpn"
+
+      },
+
+{
+
+         "name": "TH-DTAC-NOPRO-02",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac2.ovpn"
+
+      },
+
+{
+
+         "name": "TH-DTAC-NOPRO-03",
+
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac3.ovpn"
 
       }
 
@@ -200,7 +200,7 @@
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 69
+"version": 70
    
 
 }
