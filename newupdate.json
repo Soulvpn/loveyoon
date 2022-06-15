@@ -102,7 +102,7 @@
 
          "name": "TH-GAME-TRUE-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gametrue1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg1.ovpn"
 
       },
 
@@ -110,7 +110,7 @@
 
          "name": "TH-GAME-TRUE-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gametrue2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg2.ovpn"
 
       },
 
@@ -118,7 +118,7 @@
 
          "name": "TH-GAME-TRUE-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gametrue3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg3.ovpn"
 
       },
 
@@ -126,7 +126,7 @@
 
          "name": "TH-GAME-DTAC-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gamedtac1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd1.ovpn"
 
       },
 
@@ -134,7 +134,7 @@
 
          "name": "TH-GAME-DTAC-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gamedtac2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd2.ovpn"
 
       },
 
@@ -142,7 +142,7 @@
 
          "name": "TH-GAME-DTAC-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/gamedtac3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd3.ovpn"
 
       },
       
@@ -200,7 +200,7 @@
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 68
+"version": 69
    
 
 }
