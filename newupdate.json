@@ -6,7 +6,7 @@
 
          "name": "SG-TRUE-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/singapore1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/hk1.ovpn"
 
       },
 
@@ -14,7 +14,7 @@
 
          "name": "SG-TRUE-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/singapore2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/hk2.ovpn"
 
       },
 
@@ -22,7 +22,7 @@
 
          "name": "SG-TRUE-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/singapore3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/hk3.ovpn"
 
       },
 
@@ -200,7 +200,7 @@
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 72
+"version": 73
    
 
 }
