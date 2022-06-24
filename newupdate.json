@@ -102,7 +102,7 @@
 
          "name": "TH-GAME-TRUE-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue1.ovpn"
 
       },
 
@@ -110,7 +110,7 @@
 
          "name": "TH-GAME-TRUE-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue2.ovpn"
 
       },
 
@@ -118,7 +118,7 @@
 
          "name": "TH-GAME-TRUE-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sg3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue3.ovpn"
 
       },
 
@@ -126,7 +126,7 @@
 
          "name": "TH-GAME-DTAC-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac1.ovpn"
 
       },
 
@@ -134,7 +134,7 @@
 
          "name": "TH-GAME-DTAC-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac2.ovpn"
 
       },
 
@@ -142,7 +142,7 @@
 
          "name": "TH-GAME-DTAC-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/sgd3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac3.ovpn"
 
       },
       
@@ -196,11 +196,11 @@
 
    ],
 
-"message":"SERVER LIST...\n-Free Singapore Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 24/6/2022 \nConfig version: 25.0",
+"message":"SERVER LIST...\n-Free Singapore Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 25/6/2022 \nConfig version: 26.0",
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 81
+"version": 82
    
 
 }
