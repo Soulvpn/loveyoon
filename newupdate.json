@@ -6,7 +6,7 @@
 
          "name": "A-US-TRUE-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/true2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/true1.ovpn"
 
       },
 
@@ -30,7 +30,7 @@
 
          "name": "A-US-DTAC-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/dtac2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/dtac1.ovpn"
 
       },
 
@@ -200,7 +200,7 @@
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 86
+"version": 87
    
 
 }
