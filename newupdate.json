@@ -102,7 +102,7 @@
 
          "name": "TH-GAME-TRUE-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/viptrue1.ovpn"
 
       },
 
@@ -110,7 +110,7 @@
 
          "name": "TH-GAME-TRUE-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/viptrue2.ovpn"
 
       },
 
@@ -118,7 +118,7 @@
 
          "name": "TH-GAME-TRUE-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/viptrue3.ovpn"
 
       },
 
@@ -126,7 +126,7 @@
 
          "name": "TH-GAME-DTAC-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vipdtac1.ovpn"
 
       },
 
@@ -134,7 +134,7 @@
 
          "name": "TH-GAME-DTAC-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vipdtac2.ovpn"
 
       },
 
@@ -142,7 +142,7 @@
 
          "name": "TH-GAME-DTAC-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vipdtac3.ovpn"
 
       },
       
@@ -150,7 +150,7 @@
 
          "name": "TH-TRUE-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/viptrue1.ovpn"
 
       },
 
@@ -158,7 +158,7 @@
 
          "name": "TH-TRUE-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/viptrue2.ovpn"
 
       },
 
@@ -166,7 +166,7 @@
 
          "name": "TH-TRUE-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thtrue3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/viptrue3.ovpn"
 
       },
 
@@ -174,7 +174,7 @@
 
          "name": "TH-DTAC-NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vipdtac1.ovpn"
 
       },
 
@@ -182,7 +182,7 @@
 
          "name": "TH-DTAC-NOPRO-02",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vipdtac2.ovpn"
 
       },
 
@@ -190,17 +190,17 @@
 
          "name": "TH-DTAC-NOPRO-03",
 
-         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/thdtac3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/loveyoon/main/vipdtac3.ovpn"
 
       }
 
    ],
 
-"message":"SERVER LIST...\n-Free Singapore Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 29/6/2022 \nConfig version: 30.0",
+"message":"SERVER LIST...\n-Free Singapore Server\n-Free Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n\nUpdate: 30/6/2022 \nConfig version: 31.0",
 
 "title":"NEW CONFIG UPDATE AVAILABLE" ,
 
-"version": 92
+"version": 93
    
 
 }
